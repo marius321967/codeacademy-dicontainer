@@ -1,0 +1,11 @@
+{
+  "name": "marius321967/dicontainer",
+  "description": "DI container sample for CodeAcademy",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Marius321967\\DIContainer\\": "src/"
+    }
+  },
+  "require": {}
+}
